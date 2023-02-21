@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Programação\Cursos\excessoes\.metadata\.plugins\org.eclipse.jdt.core
+1535177651.index
+1865797976.index
+3537603865.index
