@@ -29,6 +29,7 @@ public class Program {
 		}else {
 			Reservation reservation = new Reservation(number, checkIn, checkOut);
 			System.out.println("teste");
+			System.out.println("teste2");
 			System.out.println(reservation);
 			
 			System.out.println();
